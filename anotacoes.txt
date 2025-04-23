@@ -1,0 +1,4 @@
+echo $GITHUB_TOKEN
+npm install json-server (criar api)
+npx json-server db.json (executar)
+X-Github-Token (Chave das requisições)
