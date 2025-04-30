@@ -5,11 +5,12 @@
       "conteudo": "segunda mensagem"
     },
     {
-      "id": "7c43"
+      "conteudo": "mensagem alterada",
+      "id": "3343"
     },
     {
-      "id": "3343",
-      "conteudo": "nova mensagem"
+      "id": "7c29",
+      "conteudo": "essa é a nova mensagem"
     }
   ]
 }
